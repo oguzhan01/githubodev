@@ -1,8 +1,8 @@
 <h1>Github Profil Sayfasi</h1>
 
-Bu calısmada Github Profil sayfasının bir ornegi tasarlandı.
+Bu calismada github profil sayfasinin bir ornegi tasarlandi.
 
-<h2>Kullanılan Teknolojiler</h2>
+<h2>Kullanilan Teknolojiler</h2>
 
 Tasarim asamasinda HTML, CSS ve SCSS ten faydalanildi.
 
